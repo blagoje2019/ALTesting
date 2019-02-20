@@ -17,3 +17,4 @@ Novi kod!
 ## Blagoje Suri
 
 
+you never walk alone
