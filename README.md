@@ -7,4 +7,8 @@ Vezbamo Git za VS Code
 ## Hello Huston
 hi hi
 
+<<<<<<< HEAD
 Novi kod! 
+=======
+## Blagoje šuri
+>>>>>>> 9c1a60ba961f7693d484f8ce122e21f2fb802995
