@@ -6,3 +6,5 @@ Vezbamo Git za VS Code
 
 ## Hello Huston
 hi hi
+
+Novi kod! 
