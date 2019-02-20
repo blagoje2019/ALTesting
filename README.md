@@ -19,4 +19,6 @@ Novi kod!
 
 ##md
 
+stage
+
 
