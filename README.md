@@ -13,11 +13,3 @@ Novi kod!
 =======
 ## Blagoje Suri
 
-
-##md
-
-stage
-
-
-=======
-you never walk alone
